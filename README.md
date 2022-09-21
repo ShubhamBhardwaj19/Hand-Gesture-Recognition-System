@@ -1,0 +1,2 @@
+# Hand-Gesture-Recognition-System
+HGRS is a python and machine learning application that can be used for communicating people with less or no idea of American Sign Language. This dataset contains labelled training and testing data for 9 signs. These signs are for bathroom, hello, help, I love you, more, no, repeat, thanks, and yes. In case the the dataset doesn't work for some reason you can use https://www.kaggle.com/datasets/shubhambhardwaj01/american-sign-language-image-dataset to download the dataset.
